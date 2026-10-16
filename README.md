@@ -1,291 +1,340 @@
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    AVINASH BHARTI | PROFILE                    -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ================= CYBERPUNK PROFILE: AVINASH BHARTI ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D1117,100:39FF14&height=220&section=header&text=AVINASH%20BHARTI&fontSize=48&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20%7C%20AGENTIC%20AI%20%7C%20GENAI&descAlignY=57&descSize=16" alt="Avinash Bharti cyberpunk header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:071A16,100:39FF14&height=230&section=header&text=AVINASH%20BHARTI&fontSize=48&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20%2F%2F%20AGENTIC%20AI%20%2F%2F%20GENAI&descAlignY=58&descSize=16" alt="Cyberpunk header"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Exploring+Agentic+AI+%26+Generative+AI;Building+LLM+Applications+with+LangChain;Designing+Stateful+AI+Workflows+with+LangGraph;Learning+Microservices%2C+Redis+%26+CI%2FCD;Strengthening+DSA+%26+Problem+Solving" alt="Animated developer introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+MERN+STACK+ENGINEER;%3E+EXPLORING+AGENTIC+AI+%26+LLMs;%3E+LANGCHAIN+%2B+LANGGRAPH;%3E+BUILDING+INTELLIGENT+SYSTEMS;%3E+NEXT+UP%3A+MICROSERVICES+%7C+REDIS+%7C+CI%2FCD" alt="Animated developer terminal"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%7C%20BUILDING%20%7C%20EVOLVING-39FF14?style=for-the-badge&labelColor=050505" alt="Developer status"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=flat-square&labelColor=050505" alt="System online"/>
+<img src="https://img.shields.io/badge/MODE-BUILD%20%2F%20LEARN-00E5FF?style=flat-square&labelColor=050505" alt="Build and learn"/>
+<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT%20SYSTEMS-39FF14?style=flat-square&labelColor=050505" alt="Intelligent systems"/>
 
 <br/><br/>
 
-<a href="https://github.com/avinash2005bharti">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/avinash-bharti-183696261/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/avinash2005bharti?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-050505?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories"/>
-</a>
-<a href="https://komarev.com/ghpvc/?username=avinash2005bharti">
-<img src="https://komarev.com/ghpvc/?username=avinash2005bharti&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
+<a href="https://github.com/avinash2005bharti"><img src="https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/avinash-bharti-183696261/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/></a>
+<a href="https://github.com/avinash2005bharti?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&logo=github&logoColor=000000" alt="Projects"/></a>
 
 <br/><br/>
 
-### `> Engineering the future, one intelligent system at a time.`
+`> THINK IN SYSTEMS. BUILD WITH INTELLIGENCE.`
 
 </div>
 
 ---
 
-## `01 // SYSTEM.IDENTITY`
+<div align="center">
+
+## <code>01 / WHO_AM_I</code>
+
+### `DEVELOPER // PROBLEM_SOLVER // AI_EXPLORER`
+
+</div>
+
+I'm Avinash Bharti — a developer building at the intersection of **full-stack engineering and intelligent AI systems**.
+
+I enjoy turning ideas into functional applications, understanding what happens behind the APIs, and exploring how AI agents can do more than just generate text.
 
 ```text
-NAME       : Avinash Bharti
-ROLE       : MERN Stack & Agentic AI Developer
-FOCUS      : Full Stack | Generative AI | Agentic Systems
-AI STACK   : LLMs | RAG | LangChain | LangGraph
-NEXT LEVEL : Microservices | CI/CD | Redis | DSA
-MISSION    : Build scalable, intelligent, real-world software
-MINDSET    : Learn -> Build -> Test -> Improve
+[IDENTITY]
+  > Full Stack Development
+  > Generative & Agentic AI
+  > LLM Applications & Workflows
+  > Scalable Backend Engineering
+
+[OBJECTIVE]
+  Build software that is useful,
+  intelligent, and ready to scale.
 ```
-
-I'm a developer passionate about building modern web applications and intelligent AI-powered systems.
-
-My interests span full-stack development, Generative AI, Agentic AI, and multi-agent workflows. I'm exploring how LLMs can reason, use tools, coordinate tasks, and interact with real-world data to solve practical problems.
-
-- ⚡ **Full Stack Development:** React, Node.js, Express.js, and MongoDB.
-- 🤖 **Generative AI:** LLMs, prompt engineering, and Retrieval-Augmented Generation (RAG).
-- 🧠 **Agentic AI:** AI agents, tool calling, task orchestration, and multi-agent systems.
-- 🔗 **LangChain & LangGraph:** LLM application development and stateful, graph-based agent workflows.
-- 🏗️ **Backend Engineering:** Building APIs, structuring services, and understanding application architecture.
-- 🚀 **Future Roadmap:** Microservices, CI/CD, Redis, DevOps fundamentals, and stronger DSA skills.
-
-> Think deeply. Engineer thoughtfully. Build intelligently.
-
----
-
-## `02 // TECH.ARSENAL`
 
 <div align="center">
 
-### `FRONTEND.DEVELOPMENT`
+`LESS TALK.` &nbsp; `MORE BUILDING.` &nbsp; `CONTINUOUS EVOLUTION.`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="Frontend technologies"/>
+</div>
 
-<br/>
+---
 
-### `BACKEND.DEVELOPMENT`
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" alt="Backend technologies"/>
+## <code>02 / TECH_STACK</code>
 
-<br/>
+### `TOOLS_OF_THE_TRADE`
 
-### `DATABASES & STORAGE`
+</div>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" alt="Database technologies"/>
+**// FRONTEND_INTERFACE**
 
-<br/>
+<div align="center">
 
-### `AI & AGENTIC.SYSTEMS`
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="Frontend stack"/>
 
-<img src="https://img.shields.io/badge/Generative%20AI-050505?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-050505?style=for-the-badge&logo=probot&logoColor=39FF14" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/LangChain-050505?style=for-the-badge&logo=chainlink&logoColor=39FF14" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-050505?style=for-the-badge&logo=graphql&logoColor=00BFFF" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/RAG-050505?style=for-the-badge&logo=databricks&logoColor=FF5F1F" alt="RAG"/>
+</div>
+
+**// BACKEND_SYSTEMS**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" alt="Backend stack"/>
+
+</div>
+
+**// DATA_AND_STORAGE**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" alt="Data technologies"/>
+
+</div>
+
+**// AGENTIC_AI_AND_LLMs**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-050505?style=for-the-badge&logo=googlegemini&logoColor=39FF14" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/AGENTIC_AI-050505?style=for-the-badge&logo=probot&logoColor=00E5FF" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-050505?style=for-the-badge&logo=chainlink&logoColor=39FF14" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LANGGRAPH-050505?style=for-the-badge&logo=graphql&logoColor=00E5FF" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-050505?style=for-the-badge&logo=databricks&logoColor=39FF14" alt="RAG"/>
 <img src="https://img.shields.io/badge/LLMs-050505?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="LLMs"/>
 
+</div>
+
+**// ENGINEERING_TOOLS**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" alt="Engineering tools"/>
+
+</div>
+
+<sub>Tech stack = current focus + technologies being explored. Individual proficiency varies.</sub>
+
+---
+
+<div align="center">
+
+## <code>03 / ACTIVE_PROJECTS</code>
+
+### `SYSTEMS_UNDER_CONSTRUCTION`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `01 // SWaRAJ`
+
+<img src="https://img.shields.io/badge/DOMAIN-PRIVATE_AI-39FF14?style=flat-square&labelColor=050505" alt="Private AI"/>
+
+**SOVEREIGN AI WORKBENCH**
+
+</div>
+
+An on-premise AI workbench concept for confidential industrial environments.
+
+**CORE MODULES**
+
+- `01` — Document intelligence
+- `02` — Local LLM workflows
+- `03` — RAG & knowledge retrieval
+- `04` — Agentic task execution
+- `05` — Industrial knowledge assistance
+
+**MISSION**
+
+Keep sensitive workflows under organizational control while enabling intelligent document analysis.
+
+<div align="center">
+
+`LOCAL AI` · `RAG` · `AGENTIC SYSTEMS`
+
+**[ REPOSITORY LINK PENDING ]**
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `02 // NEERDRISHTI`
+
+<img src="https://img.shields.io/badge/DOMAIN-MARINE_AI-00E5FF?style=flat-square&labelColor=050505" alt="Marine AI"/>
+
+**MARINE ECOSYSTEM REASONING**
+
+</div>
+
+A collaborative-agent AI concept for making marine and oceanographic information easier to explore.
+
+**CORE MODULES**
+
+- `01` — Ocean data intelligence
+- `02` — Geospatial exploration
+- `03` — Fishing-zone insights
+- `04` — Conversational reasoning
+- `05` — Multi-agent collaboration
+
+**MISSION**
+
+Connect ocean information with practical insights for marine and coastal use cases.
+
+<div align="center">
+
+`MULTI-AGENT AI` · `GEOSPATIAL` · `OCEAN DATA`
+
+**[ REPOSITORY LINK PENDING ]**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/avinash2005bharti?tab=repositories"><img src="https://img.shields.io/badge/ACCESS_ALL_PROJECTS-050505?style=for-the-badge&logo=github&logoColor=39FF14" alt="Explore projects"/></a>
+
+</div>
+
+> Replace the repository placeholders with the actual project URLs once you have them.
+
+---
+
+<div align="center">
+
+## <code>04 / GITHUB_TELEMETRY</code>
+
+### `ACTIVITY // CONTRIBUTIONS // CODE`
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=avinash2005bharti&show_icons=true&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=00E5FF&text_color=E6EDF3&ring_color=39FF14" alt="GitHub stats"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash2005bharti&layout=compact&hide_border=true&bg_color=050505&title_color=39FF14&text_color=E6EDF3&langs_count=8" alt="Top languages"/>
+
 <br/><br/>
 
-### `TOOLS & DEVOPS`
+<img width="85%" src="https://streak-stats.demolab.com?user=avinash2005bharti&hide_border=true&background=050505&ring=39FF14&fire=FF5F1F&currStreakLabel=39FF14&sideLabels=00E5FF&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=888888" alt="GitHub streak"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" alt="Development tools"/>
+<sub>Telemetry is provided by external services and may occasionally be unavailable.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## <code>05 / FUTURE_UPGRADES</code>
+
+### `ROADMAP.EXE`
+
+`CURRENT SKILLS` → `DEEPER ENGINEERING` → `PRODUCTION SYSTEMS`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `[ MODULE_01 ]`
+
+**DSA & PROBLEM SOLVING**
+
+- [ ] Arrays, strings & hashing
+- [ ] Trees, graphs & recursion
+- [ ] Dynamic programming
+- [ ] Complexity analysis
+- [ ] Interview problem-solving
+
+<img src="https://img.shields.io/badge/OBJECTIVE-STRONG_FUNDAMENTALS-39FF14?style=flat-square&labelColor=050505" alt="DSA objective"/>
+
+</td>
+<td width="50%" valign="top">
+
+### `[ MODULE_02 ]`
+
+**MICROSERVICES & REDIS**
+
+- [ ] Service boundaries & decomposition
+- [ ] API gateways & service communication
+- [ ] Distributed systems fundamentals
+- [ ] Redis caching & session management
+- [ ] Rate limiting & performance
+
+<img src="https://img.shields.io/badge/OBJECTIVE-SCALABLE_BACKENDS-00E5FF?style=flat-square&labelColor=050505" alt="Backend objective"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `[ MODULE_03 ]`
+
+**CI/CD & DEVOPS**
+
+- [ ] GitHub Actions
+- [ ] Automated testing & build pipelines
+- [ ] Docker deployment workflows
+- [ ] Environment & configuration management
+- [ ] Monitoring, logs & observability
+
+<img src="https://img.shields.io/badge/OBJECTIVE-RELIABLE_DEPLOYMENTS-39FF14?style=flat-square&labelColor=050505" alt="DevOps objective"/>
+
+</td>
+<td width="50%" valign="top">
+
+### `[ MODULE_04 ]`
+
+**ADVANCED AGENTIC AI**
+
+- [ ] Stateful workflows with LangGraph
+- [ ] Tool calling & agent orchestration
+- [ ] Multi-agent coordination
+- [ ] RAG evaluation & retrieval quality
+- [ ] Reliable AI application deployment
+
+<img src="https://img.shields.io/badge/OBJECTIVE-INTELLIGENT_SYSTEMS-00E5FF?style=flat-square&labelColor=050505" alt="Agentic AI objective"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### `THE LONG-TERM VISION`
+
+`FULL STACK` → `BACKEND ENGINEERING` → `MICROSERVICES + CI/CD` → `SCALABLE AGENTIC AI`
+
+</div>
+
+---
+
+<div align="center">
+
+## <code>06 / CONNECT_TO_NETWORK</code>
+
+### `OPEN_TO_IDEAS // OPEN_TO_COLLABORATION`
+
+Building something interesting? Exploring AI, backend systems, or full-stack engineering?
+
+Let's connect and build something meaningful.
 
 <br/>
 
-<img src="https://img.shields.io/badge/CI%2FCD-LEARNING-050505?style=for-the-badge&logo=githubactions&logoColor=39FF14" alt="CI/CD learning"/>
-
-</div>
-
-<sub>Technology badges represent my areas of work and learning, not necessarily equal proficiency in every tool.</sub>
-
----
-
-## `03 // FEATURED.PROJECTS`
-
-<div align="center">
-
-### `PROJECT_01 // SWaRAJ`
-
-**Sovereign On-Premise Agentic AI Workbench**
-
-<img src="https://img.shields.io/badge/FOCUS-PRIVATE%20AI-050505?style=for-the-badge&logo=probot&logoColor=39FF14" alt="Private AI"/>
-<img src="https://img.shields.io/badge/DOMAIN-INDUSTRIAL%20AI-050505?style=for-the-badge&logo=databricks&logoColor=00BFFF" alt="Industrial AI"/>
-
-</div>
-
-A privacy-focused AI workbench concept designed for confidential industrial workflows, where sensitive documents and organizational knowledge can be processed within controlled infrastructure.
-
-**Key areas:**
-- 🔐 On-premise and air-gapped AI workflows.
-- 📄 Document intelligence and multimodal document understanding.
-- 🧠 Retrieval-Augmented Generation (RAG) and knowledge retrieval.
-- 🤖 Agentic workflows for industrial documentation and analysis.
-- 🏭 Potential applications in maintenance, inspection, risk analysis, and compliance.
-
-**Technology direction:** React, Node.js, Python, FastAPI, local LLMs, vector search, and knowledge graphs.
-
-**Repository:** `[ADD_SWARAJ_REPOSITORY_URL]`
-
----
-
-<div align="center">
-
-### `PROJECT_02 // NEERDRISHTI`
-
-**Marine Ecosystem Reasoning with Collaborative Agents**
-
-<img src="https://img.shields.io/badge/FOCUS-MULTI--AGENT%20AI-050505?style=for-the-badge&logo=probot&logoColor=39FF14" alt="Multi-agent AI"/>
-<img src="https://img.shields.io/badge/DOMAIN-MARINE%20INTELLIGENCE-050505?style=for-the-badge&logo=googleearth&logoColor=00BFFF" alt="Marine intelligence"/>
-
-</div>
-
-A marine intelligence project focused on making oceanographic and coastal information easier to explore through conversational AI and collaborative agent workflows.
-
-**Key areas:**
-- 🌊 Ocean conditions and marine ecosystem information.
-- 🛰️ Sea-surface temperature, chlorophyll, and geospatial data.
-- 🎣 Potential fishing-zone insights and fishing-trip questions.
-- 🤖 Collaborative agents and AI-powered reasoning.
-- 🗺️ Geospatial interfaces for exploring marine information.
-
-**Technology direction:** React, Node.js, Python, FastAPI, LLMs, multi-agent orchestration, and geospatial tooling.
-
-**Repository:** `[ADD_NEERDRISHTI_REPOSITORY_URL]`
-
----
-
-<div align="center">
-
-<a href="https://github.com/avinash2005bharti?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-050505?style=for-the-badge&logo=github&logoColor=39FF14" alt="Explore repositories"/>
-</a>
-
-</div>
-
----
-
-## `04 // GITHUB.TELEMETRY`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=avinash2005bharti&show_icons=true&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=00BFFF&text_color=E6EDF3&ring_color=39FF14&include_all_commits=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash2005bharti&layout=compact&hide_border=true&bg_color=050505&title_color=39FF14&text_color=E6EDF3&langs_count=8" alt="Most-used programming languages"/>
+<a href="https://github.com/avinash2005bharti"><img src="https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/avinash-bharti-183696261/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn profile"/></a>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=avinash2005bharti&hide_border=true&background=050505&ring=39FF14&fire=FF5F1F&currStreakLabel=39FF14&sideLabels=00BFFF&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=888888" alt="GitHub contribution streak"/>
+`[ SYSTEM MESSAGE: KEEP BUILDING. KEEP EVOLVING. ]`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:071A16,100:030712&height=130&section=footer" alt="Cyberpunk footer"/>
 
 </div>
 
-<sub>Statistics are provided by external services. Availability and displayed data may vary. Language statistics reflect repository code rather than overall skill level.</sub>
-
----
-
-## `05 // NEXT.LEVEL.ROADMAP`
-
-My goal is to grow beyond building applications and develop a deeper understanding of scalable backend systems, deployment, performance, algorithms, and production engineering.
-
-### `PHASE_01 // CORE ENGINEERING`
-
-- [ ] Strengthen Data Structures and Algorithms (DSA).
-- [ ] Improve problem-solving patterns and complexity analysis.
-- [ ] Deepen backend development and API design.
-- [ ] Practice testing, debugging, and clean code.
-
-### `PHASE_02 // SCALABLE BACKEND`
-
-- [ ] Learn Microservices architecture and service boundaries.
-- [ ] Understand API gateways and inter-service communication.
-- [ ] Explore distributed systems fundamentals.
-- [ ] Learn Redis for caching, session management, and rate limiting.
-
-### `PHASE_03 // DEVOPS & DEPLOYMENT`
-
-- [ ] Learn CI/CD pipelines and GitHub Actions.
-- [ ] Automate testing, builds, and deployments.
-- [ ] Improve Docker-based development and deployment.
-- [ ] Explore application monitoring, logging, and observability.
-
-### `PHASE_04 // ADVANCED AGENTIC AI`
-
-- [ ] Deepen understanding of LangChain and LangGraph.
-- [ ] Build stateful agent workflows with tool calling.
-- [ ] Explore multi-agent coordination and human-in-the-loop patterns.
-- [ ] Improve RAG pipelines, retrieval quality, and evaluation.
-- [ ] Learn to deploy reliable AI-powered applications.
-
-<div align="center">
-
-### `THE ENGINEERING PATH`
-
-`MERN` → `ADVANCED BACKEND` → `MICROSERVICES + REDIS` → `CI/CD` → `SCALABLE AGENTIC AI`
-
-</div>
-
----
-
-## `06 // CURRENT.MINDSET`
-
-```yaml
-interests:
-  - Full-stack engineering
-  - Generative AI and LLM applications
-  - Agentic AI and LangGraph
-  - RAG and knowledge retrieval
-  - Scalable backend architecture
-
-future_learning:
-  - Microservices
-  - CI/CD and DevOps
-  - Redis
-  - Data structures and algorithms
-  - Production-grade AI systems
-
-workflow:
-  - Learn
-  - Build
-  - Test
-  - Debug
-  - Improve
-
-goal: "Build useful software and become a stronger engineer."
-```
-
----
-
-## `07 // ESTABLISH.CONNECTION`
-
-I'm interested in software engineering, full-stack development, Agentic AI, and building solutions to real-world problems.
-
-If you're working on an interesting project or exploring similar technologies, let's connect!
-
-<div align="center">
-
-<a href="https://github.com/avinash2005bharti">
-<img src="https://img.shields.io/badge/FOLLOW%20MY%20WORK-050505?style=for-the-badge&logo=github&logoColor=39FF14" alt="Follow on GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/avinash-bharti-183696261/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="Connect on LinkedIn"/>
-</a>
-
-<br/><br/>
-
-### `BUILD SOMETHING THAT MATTERS.`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:0D1117,100:050505&height=120&section=footer" alt="Cyberpunk footer"/>
-
-</div>
+<!-- ======================== END OF PROFILE ======================== -->
